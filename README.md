@@ -1,10 +1,7 @@
 # 안녕하세요 임익화입니다
 
 ## skills
-|skill|level|
-|---|---|
-|python|low|
-|javascript|low|
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py)
 
 <!--
 **zxcv718/zxcv718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
