@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=zxcv718&fontSize=64&fontColor=c0caf5&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=%EB%8F%99%EC%9E%91+%EC%9B%90%EB%A6%AC%EB%A5%BC+%EC%A7%81%EC%A0%91+%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B0+%EB%B0%B0%EC%9B%81%EB%8B%88%EB%8B%A4;LLM+Agent+%C3%97+RAG+%C3%97+MCP;Python+%C2%B7+TypeScript+%C2%B7+Java)](https://github.com/zxcv718)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=%EB%8F%99%EC%9E%91+%EC%9B%90%EB%A6%AC%EB%A5%BC+%EC%A7%81%EC%A0%91+%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B0+%EB%B0%B0%EC%9B%81%EB%8B%88%EB%8B%A4;LLM+Agent+%C3%97+RAG+%C3%97+MCP;Python+%C2%B7+TypeScript)](https://github.com/zxcv718)
 
 [![GitHub followers](https://img.shields.io/github/followers/zxcv718?label=Followers&logo=github&style=flat-square&color=7aa2f7&labelColor=1a1b27)](https://github.com/zxcv718)
 [![Profile views](https://komarev.com/ghpvc/?username=zxcv718&label=Profile%20views&style=flat-square&color=7aa2f7)](https://github.com/zxcv718)
@@ -12,7 +12,6 @@
 ## 🙋 About
 
 - 🧱 자료구조·시스템을 **밑바닥부터 직접 구현**하며 원리를 익힙니다 — Redis, Git을 내장 컬렉션 없이 만들어 봤어요.
-- 🔁 같은 문제를 **다른 프레임워크로 다시 풀어보며** 설계 차이를 비교합니다 — NestJS → Spring Boot 포팅.
 - 🤖 요즘은 **LLM 에이전트 + 권한 인식 검색(RAG/MCP)** 에 관심이 많습니다.
 
 ## 🛠 Tech Stack
@@ -20,13 +19,13 @@
 <div align="center">
 
 **Languages**<br>
-[![Languages](https://skillicons.dev/icons?i=py,ts,js,java,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,ts,js,bash&theme=dark)](https://skillicons.dev)
 
 **Frontend**<br>
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 **Backend & Data**<br>
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring,postgres,redis,supabase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis,supabase&theme=dark)](https://skillicons.dev)
 
 **Infra & Tools**<br>
 [![Infra](https://skillicons.dev/icons?i=docker,terraform,aws,vercel,git,github,vitest&theme=dark)](https://skillicons.dev)
@@ -42,13 +41,6 @@
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-### ☎️ [damso-calls-spring](https://github.com/zxcv718/damso-calls-spring)
-노인 돌봄 AI 영상통화 서비스의 calls 모듈을 **NestJS → Spring Boot**로 포팅. JPA + MyBatis 병행, Spring Batch + ShedLock 분산 락.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🍗 [kiobridge-23c](https://github.com/zxcv718/kiobridge-23c)
 키오스크가 어려운 분을 위한 주문 도우미 — 알레르기·예산을 지킨 메뉴를 이유와 함께 추천. *2026 영그라운드 MVP 해커톤 출품작*
@@ -76,7 +68,7 @@ ByteByteGo 뉴스레터를 카테고리별로 정리한 학습 웹앱.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zxcv718&show_icons=true&hide=stars&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv718&layout=compact&hide=html,css&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv718&layout=compact&hide=html,css,java&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=zxcv718&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
