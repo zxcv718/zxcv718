@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=%EB%8F%99%EC%9E%91+%EC%9B%90%EB%A6%AC%EB%A5%BC+%EC%A7%81%EC%A0%91+%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B0+%EB%B0%B0%EC%9B%81%EB%8B%88%EB%8B%A4;LLM+Agent+%C3%97+RAG+%C3%97+MCP;Python+%C2%B7+TypeScript)](https://github.com/zxcv718)
 
 [![GitHub followers](https://img.shields.io/github/followers/zxcv718?label=Followers&logo=github&style=flat-square&color=7aa2f7&labelColor=1a1b27)](https://github.com/zxcv718)
-[![Profile views](https://komarev.com/ghpvc/?username=zxcv718&label=Profile%20views&style=flat-square&color=7aa2f7)](https://github.com/zxcv718)
+[![Profile views](https://hits.sh/github.com/zxcv718.svg?style=flat-square&label=Profile%20views&color=7aa2f7&labelColor=1a1b27)](https://github.com/zxcv718)
 
 </div>
 
