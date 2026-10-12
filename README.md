@@ -1,4 +1,4 @@
-# 안녕하세요 임익화입니다
+# 안녕하세요~
 
 ## skills
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py)
