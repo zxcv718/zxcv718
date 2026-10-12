@@ -1,4 +1,10 @@
-## Hi there 👋
+# 안녕하세요 임익화입니다
+
+## skills
+|skill|level|
+|---|---|
+|python|low|
+|javascript|low|
 
 <!--
 **zxcv718/zxcv718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
